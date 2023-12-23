@@ -22,8 +22,6 @@ JavaScript adds interactivity and dynamic features to the portfolio. Although no
 
 "Embark on a visual journey through my digital portfolio, where every project is a chapter, and every pixel tells a story of passion and innovation." and refer the photos in task2 reference photos
 
-THANK YOU...
-
 
 
 
